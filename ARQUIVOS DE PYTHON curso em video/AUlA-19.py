@@ -1,3 +1,7 @@
+## PROGRAMA PARA ESCOLHERO ALUNO PARA APAGAR UM QUADRO
+
+
+
 import random
 n1 = str(input('Primeiro aluno: '))
 n2 = str(input('Segundo aluno: '))
