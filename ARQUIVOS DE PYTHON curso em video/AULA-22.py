@@ -1,3 +1,6 @@
+'''cadeia de caracteres'''
+
+
 nome = str(input('QUAL SEU NOME: ')).strip()
 ## strip para contar os espaços
 print ('ANALISANDO SEU NOME {}'.format(nome))
