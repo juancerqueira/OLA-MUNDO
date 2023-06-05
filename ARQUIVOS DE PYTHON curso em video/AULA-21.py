@@ -9,7 +9,7 @@ pygame.event.wait()'''
 '''aula com erro que nao consegui '''
 
 
-import pygame
+from pygame import pygame
 print (pygame.ver) 
 pygame.init()
 pygame.mixer.music.load('AULA-21.mp3')
