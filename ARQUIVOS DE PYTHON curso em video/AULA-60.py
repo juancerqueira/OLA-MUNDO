@@ -3,7 +3,7 @@ n = int(input('DIGITE O NUMERO QUE VC QUER SABER O FATORIAL: '))
 '''f = factorial(n)
 print (f'O fatorial de {n} e `{f}')'''
 c = n 
-f=1
+f = 1
 while c > 0:
     print(f'{c}', end='')
     print(f' x ' if c > 1 else ' = ', end='')
