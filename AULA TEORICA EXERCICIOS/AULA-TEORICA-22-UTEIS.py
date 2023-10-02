@@ -12,3 +12,6 @@ def dobro(n):
 
 def tripli ( n ):
     return n *3
+
+
+print(__doc__)
